@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 29 18:29:14 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-c6c5-58a2-0000195f2ad0 
+on database directory C:\Users\Nicolay\Documents\GitHub\ovinger\IDATT2001\Oving5\contacts-v0.3.1\contactsdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Nicolay/Documents/GitHub/ovinger/IDATT2001/Oving5/contacts-v0.3.1/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_252-b09
+user.dir=C:\Users\Nicolay\Documents\GitHub\ovinger\IDATT2001\Oving5\contacts-v0.3.1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

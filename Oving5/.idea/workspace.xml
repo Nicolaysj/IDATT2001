@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ac6d6db-5dfa-4024-b10e-4a0d27c37a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/.idea/Oving4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Bat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Jumpable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Oviparous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Pelican.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Swimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Walkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Whale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/ZooClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oving4/ZooException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/Contacts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derby.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_cs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_de_DE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_es.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_fr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_hu.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_it.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_ja_JP.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_ko_KR.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_pl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_pt_BR.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_ru.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_zh_CN.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyLocale_zh_TW.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyclient.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbynet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyoptionaltools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbyrun.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/derbytools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/eclipselink.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/jakarta.persistence_2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/lib/mysql-connector-java-8.0.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/src/no/ntnu/idata2001/contacts/model/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/src/no/ntnu/idata2001/contacts/model/AddressBookDBHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts-v0.3.1/src/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ovinger.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bDuDI3WsmvfTHmNnQheigdlpj6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5b" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac6d6db-5dfa-4024-b10e-4a0d27c37a38" name="Default Changelist" comment="" />
+      <created>1588178863343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588178863343</updated>
+      <workItem from="1588178868612" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="274" key="#Project_Structure" timestamp="1588178873609">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="#Project_Structure/0.0.2560.1400/2560.99.1920.1040/-1920.82.1920.1040@0.0.2560.1400" timestamp="1588178873609" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1588178955661">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.99.1920.1040/-1920.82.1920.1040@0.0.2560.1400" timestamp="1588178955661" />
+  </component>
+</project>

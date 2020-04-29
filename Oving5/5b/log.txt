@@ -1,0 +1,2 @@
+apr. 29, 2020 7:30:59 P.M. WAFClient main
+ALL: / by zero
