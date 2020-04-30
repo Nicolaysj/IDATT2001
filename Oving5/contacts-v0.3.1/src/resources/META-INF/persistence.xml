@@ -43,8 +43,8 @@
                       value="com.mysql.cj.jdbc.Driver"/>
             <property name="javax.persistence.jdbc.url"
                       value="jdbc:mysql://mysql-ait.stud.idi.ntnu.no/nicolsc"/>
-            <property name="javax.persistence.jdbc.user" value="nicolsc"/>
-            <property name="javax.persistence.jdbc.password" value="Kqx6CuEg"/>
+            <property name="javax.persistence.jdbc.user" value="-"/>
+            <property name="javax.persistence.jdbc.password" value="-"/>
             <property name="eclipselink.ddl-generation" value="create-tables"/>
             <property name="eclipselink.logging.level" value="FINE"/>
         </properties>
